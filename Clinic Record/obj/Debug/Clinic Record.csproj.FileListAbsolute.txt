@@ -1,0 +1,181 @@
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\Clinic Record.exe.config
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\Clinic Record.exe
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\Clinic Record.pdb
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic_Record.Form1.resources
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic_Record.Properties.Resources.resources
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic Record.csproj.GenerateResource.Cache
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic Record.exe
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic Record.pdb
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic_Record.frmAbout.resources
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic_Record.frmPatientInfo.resources
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic_Record.frmRecord.resources
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic Record.exe.licenses
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\Documents\Programming\OneZero\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\Clinic Record.exe.config
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic Record.exe
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic Record.pdb
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\Clinic Record.exe
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\Clinic Record.pdb
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Data.v17.1.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Office.v17.1.Core.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Data.v17.1.xml
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\DevExpress.Office.v17.1.Core.xml
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic Record.csprojResolveAssemblyReference.cache
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic_Record.Form1.resources
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic_Record.frmAbout.resources
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic_Record.frmPatientInfo.resources
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic_Record.frmRecord.resources
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic_Record.Properties.Resources.resources
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic Record.csproj.GenerateResource.Cache
+E:\Onezero GDrive\C# Project\Clinic Record\Clinic Record\Clinic Record\obj\Debug\Clinic Record.exe.licenses
